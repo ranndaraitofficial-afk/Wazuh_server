@@ -225,20 +225,6 @@ Core Switch
 Wazuh      Windows Server    Ubuntu
 Server         DC            Server
 ```
-
----
-
-# Repository Structure
-
-```text
-wazuh-lab/
-├── README.md
-├── screenshots/
-├── configs/
-├── diagrams/
-└── scripts/
-```
-
 ---
 
 # Useful Resources
